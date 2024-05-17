@@ -1,0 +1,5 @@
+apiVersion: v2
+type: application
+name: app-template
+description: app-template-description-placeholder
+version: 1.0.0-latest
